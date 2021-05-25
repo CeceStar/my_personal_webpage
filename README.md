@@ -1,2 +1,2 @@
-# My first Webpage
-This is going to be a personal site about myself. Let's see how this goes!
+# My first webpage in Hyper Island
+This is a personal webpage about me. My first project for my Hyper Island studies. The assignment was just to create and HTML page and practice CSS. 
